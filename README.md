@@ -1,2 +1,0 @@
-# Pharmati
-Simple chat
